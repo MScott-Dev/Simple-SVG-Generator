@@ -1,0 +1,22 @@
+{
+  "name": "svg-gen",
+  "version": "1.0.0",
+  "description": "A command line svg generator. Answer the question and be given an svg file",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Matthew Scott",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

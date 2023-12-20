@@ -17,7 +17,7 @@ Generates a SVG logo based on user inputs!
 
 
 ## Description <a name="Description"></a>
-![Image of the webpage](https://imgur.com/a/Hq86inU) <br>
+![Sample Logo](./lib/image/SVG.PNG) <br>
 Allows the user to generate a svg logo with a three letter abbreviation and a simple! It offers three shapes: A circle, triangle, or a sqaure while also allowing the user to set the color of both using the name or hexidecimal value of a color.
 
 

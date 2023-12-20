@@ -42,7 +42,8 @@ Just open a pull request if you think you can improve this project!
 There are 3 tests included in the repo, testing the javaScript to make sure it was returning the correct values based on user inputs.
 
 ## Executing program <a name="Executing"></a>
-Copy repo into VS Code, run npm i in the terminal, run node index.js in the terminal, and answer the questions
+Copy repo into VS Code, run npm i in the terminal, run node index.js in the terminal, and answer the questions. <br>
+[Watch a demo here!](https://drive.google.com/file/d/1ZGpMcy7aSzunlYzCpHxENSSYQTfZ8c_C/view)
 
 ## Authors <a name="Authors"></a>
 Matthew Scott
